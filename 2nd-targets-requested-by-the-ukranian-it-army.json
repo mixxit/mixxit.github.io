@@ -1,4 +1,8 @@
 [    {
+        'mininform.gov.by':{
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
         'https://sputnik.by': {
             number_of_requests: 0,
             number_of_errored_responses: 0
